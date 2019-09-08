@@ -23,7 +23,7 @@ RSS: false
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# twitter_username:   qiubaiying
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: d18b343dd9c7ca49518a                            #生成的clientID
+  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+  repo: klovien.github.io    #仓库名称
+  owner: klovien    #github用户名
+  admin: klovien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
