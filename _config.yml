@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "知乎：人造国际语",
+        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "知乎：Henri_Jambo",
+        href: "https://www.zhihu.com/people/henry-jiang-78"
     },{
         title: "Apple",
         href: "https://apple.com"
