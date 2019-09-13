@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "三叶草国际语维基词典",
+        href: "https://github.com/klovien/klovien.github.io/wiki"
+    },{
+        title: "三叶草国际语互动社区",
+        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+    },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     },{
         title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78"
-    },{
-        title: "Apple 苹果官网",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
