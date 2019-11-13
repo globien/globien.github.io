@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  enable: true    #是否开启Gitalk评论
+  clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
+  clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
+  repo:  globien.github.io    #仓库名称
+  owner: globien    #github用户名
+  admin: globien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "https://github.com/globien/globien.github.io/wiki"
     },{
         title: "格罗比言互动社区",
-        href: "https://globien.fandom.com/wiki/globien"
+        href: "https://globien.fandom.com/wiki/Globien_Wiki"
     },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
