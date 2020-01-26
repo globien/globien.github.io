@@ -1,4 +1,4 @@
-欢迎来到"格罗比言·全球语"项目！
+Welcome to Globien Project！
 
 格罗比言·全球语 (Globien) 是新一代人造国际语。她传承世界语 (Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁。
 
@@ -20,4 +20,4 @@
 
 ### License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+MIT License, please refer to [LICENSE](https://github.com/globien/globien.github.io/blob/master/LICENSE).
