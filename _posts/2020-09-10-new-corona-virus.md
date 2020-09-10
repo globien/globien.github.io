@@ -30,3 +30,5 @@ The changed part, word rhyme, is helpful for Chinese speakers.  It's still a lit
 
 The superscript is not a portion of a word.  It's just a hint.  An Indo-European speaker call always ignore them safely.
 
+By the way, the expression for "pandemic" is: **gronde infekanze malindeo**.  It's a little bit long, but as an IAL and for the sake of simpleness, Globien won't build too many words as that English.  Also, an Indo-European speaker can easily recognize this phrase. 
+
