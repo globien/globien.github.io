@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      What is the prase for "novel coronavirus" in Globien?
+title:      What's the phrase for "novel coronavirus" in Globien?
 subtitle:   Let's build the words together.
 date:       2020-09-10
 author:     Henri Jambo
@@ -10,7 +10,7 @@ tags:
     - Language Tips
 ---
 
-What is the prase for "novel coronavirus" in Globien? 
+What is the expression for "novel coronavirus" in Globien? 
 
 To build a Globien word, we use the "English/French Word + Chinese Pinyin" form. Let's have a look:
 
@@ -18,13 +18,13 @@ To build a Globien word, we use the "English/French Word + Chinese Pinyin" form.
 * crown/corona：corona + guan = koronuan (c changed to k according to the pronunciation)
 * virus：virus + du = viru
 
-Connecting them, the phrase in Globien is:
+Let's connect them, and get the phrase in Globien:
 
 **nine koronuan viru**
 
-Quite simple, right? Though it has been changed in some way, it's still very easy to understand for a Indo-European language speaker, especially for English speaker.
+Quite simple, right? Though the words have been changed in some way, they're still very easy to be recognized by an Indo-European language speaker, especially an English speaker.
 
-The changed part, word rhyme, is helpful for Chinese speaker.  It's still a little bit hard for Chinese though.  To help more, Globien has another style for Chinese biginners:  
+The changed part, word rhyme, is helpful for Chinese speakers.  It's still a little bit hard for Chinese though.  To help more, Globien has another style for biginners from Chinese speakers:  
 
 **nin<sup>x</sup>e koronuan<sup>g</sup> viru<sup>d</sup>**
 
