@@ -52,10 +52,10 @@ layout: default
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
-                <h5>MORE SITES</h5>
+                <h5>RESOURCES</h5>
                 <ul class="list-inline">
                     {% for friend in site.friends %}
-                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+                        <li><a href="{{friend.href}}" target="_blank">{{friend.title}}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}
@@ -74,7 +74,7 @@ layout: default
     			{{ content }}
     		</div>
     <!-- Sidebar Container -->
-            <div class="
+             <div class="
                 col-lg-3 col-lg-offset-0
                 col-md-3 col-md-offset-0
                 col-sm-12
@@ -102,7 +102,7 @@ layout: default
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/3-about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
                     <div class="short-about">
-                        {% if site.sidebar-avatar %}
+                         {% if site.sidebar-avatar %}
                             <a href="{{ site.baseurl }}/3-about">
                                 <img src="{{site.sidebar-avatar}}"/>
                             </a>
@@ -196,11 +196,11 @@ layout: default
                 <h5>RESOURCES</h5>
                 <ul class="list-inline">
                     {% for friend in site.friends %}
-                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+                        <li><a href="{{friend.href}}" target="_blank">{{friend.title}}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}
     		</div>
-        {% endif %}
+         {% endif %}
 	</div>
 </div>
