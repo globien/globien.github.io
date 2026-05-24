@@ -5,9 +5,9 @@ header-img: img/home-bg-bluestars.jpg
 email: globien@outlook.com
 description: "中西融合, 即学即会, 让世界沟通更容易"
 keyword: "人工语言, 国际语, 世界语, 星球语, 星球国际语"
-url: "https://globien.gitee.io"          # your host, for absolute URL
+url: "https://globien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://gitee.com/globien/globien" # you code repository
+github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -61,30 +61,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
   repo:  globien.github.io    #仓库名称
   owner: globien    #github用户名
   admin: globien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-# Giteement 
-# 关于如何集成:https://www.jianshu.com/p/f5c4633524c7
-# 基于码云的评论系统(https://gitee.com/zhousiwei/giteement)
-giteement:
-  enable: true  # 是否启用码云评论系统
-  # 是否使用官方js(false可以提升访问速度)
-  remote: false
-  redirect_uri: 'https://globien.gitee.io'   # 应用回调地址(请和配置的第三方应用保持一致)
-  # 不能更改(网上开源项目https://github.com/Rob--W/cors-anywhere作者提供的专门用来跨域服务器的配置)
-  oauth_uri: https://cors-anywhere.herokuapp.com/https://gitee.com/oauth/token
-  giteeID: 'globien'  # 你的码云账号英文名
-  # 存储评论的 repo name(需要在码云仓库创建公开仓库)
-  repo: 'globien'
-  gitment_oauth:
-    client_id: 'e7d2ae28ff2563389f190714328b3896fbd0f329240e2fd9f3ded8d208000ec4'           #client ID
-    client_secret: 'c649de868686537323c7ae23ee78cad89fec5e0d676215158b1752dbf5211a0b'       #client secret
 
 # 统计
 
@@ -95,7 +78,6 @@ giteement:
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 # ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
 
 
 
@@ -123,8 +105,8 @@ friends: [
     },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },,{
+    },{
         title: "快视点（Qtrends.now）",
-        href: "https://Qtrends.now/?lang=cn"
+        href: "https://qtrends.now/?lang=cn"
     }
 ]
