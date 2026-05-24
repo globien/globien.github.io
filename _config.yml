@@ -97,7 +97,7 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
+        title: "星球国际语（Globien）",
         href: "https://globien.github.io"
     },{
         title: "星球语互动社区",
