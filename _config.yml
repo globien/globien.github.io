@@ -67,7 +67,7 @@ gitalk:
   repo:  globien.github.io    #仓库名称
   owner: globien    #github用户名
   admin: globien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类似FB的阴��遮罩
 
 # 统计
 
