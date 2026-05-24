@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    globien
-# facebook_username:  baiying.qiu.7
+zhihu_username:       henry-jiang-78
+github_username:      globien
+facebook_username:    henry.h.jiang.5
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
 
@@ -67,7 +67,7 @@ gitalk:
   repo:  globien.github.io    #仓库名称
   owner: globien    #github用户名
   admin: globien
-  distractionFreeMode: true #是否启用类似FB的阴��遮罩
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
 
@@ -77,7 +77,7 @@ gitalk:
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
